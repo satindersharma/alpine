@@ -17,3 +17,8 @@
 
 
 `apk list --installed`
+
+
+### to see all status
+
+`rc-status`
