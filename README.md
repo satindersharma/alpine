@@ -14,3 +14,6 @@
 `rc-update add docker default`
 
 `openrc default`
+
+
+`apk list --installed`
