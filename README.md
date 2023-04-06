@@ -25,3 +25,10 @@
 ### to see all status
 
 `rc-status`
+
+
+### know the version of linux
+`cat /etc/os-release`
+
+### know th ecpu ram usage
+`top`
