@@ -11,8 +11,11 @@
 
 ### this is working
 
+### one time
+
 `rc-update add docker default`
 
+### to run everytime, when you start wsl run this only
 `openrc default`
 
 
