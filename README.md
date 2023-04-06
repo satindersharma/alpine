@@ -32,3 +32,7 @@
 
 ### know th ecpu ram usage
 `top`
+
+
+### man
+`apk add mandoc man-pages`
