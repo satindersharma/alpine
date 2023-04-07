@@ -17,7 +17,9 @@
 
 ### to run everytime, when you start wsl run this only
 `openrc default`
-
+`algokit localnet start`
+`algokit explore`
+`python deploy.py`
 
 `apk list --installed`
 
